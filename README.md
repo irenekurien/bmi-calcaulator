@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/irenekurien/bmi-calcaulator/blob/main/images/1.jpeg)
+![alt text](https://github.com/irenekurien/bmi-calcaulator/blob/main/images/2.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
